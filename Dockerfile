@@ -1,6 +1,6 @@
 FROM alpine:3.12
   
-MAINTAINER Steve Tarter <stve@tarter.net>
+MAINTAINER Steve Tarter <steve@tarter.net>
 
 # Version of osm2pgsql to use.
 ARG OSM2PGSQL_VERSION 1.5.1
